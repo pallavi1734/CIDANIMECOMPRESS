@@ -3,7 +3,7 @@
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
     "logo": "https://graph.org/file/1cc8d7082dc910c0ccee8.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/2204852/CIDANIMECOMPRESS",
+    "repository": "https://github.com/pallavi1734/CIDANIMECOMPRESS",
     "success_url": "https://t.me/BotzHub",
     "stack": "container",
     "env": {
