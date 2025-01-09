@@ -20,7 +20,7 @@ try:
     API_HASH = config("API_HASH", "8e0102759d538ef057681a90c3e1af0c")
     BOT_TOKEN = config("BOT_TOKEN", "7208791316:AAHq-gAGNSHuVSDj7er7x5zyZ90h_yBycBU")
     DEV = 1322549723
-    OWNER = config("OWNER", "")
+    OWNER = config("OWNER", "943270135")
     FFMPEG = config(
         "FFMPEG",
         default='ffmpeg -i "{}" -preset faster -c:v libx265 -crf 20 -tune animation -pix_fmt yuv420p10le -threads 16 -map 0:v -c:a aac -map 0:a -c:s copy -map 0:s? "{}"',
